@@ -20,7 +20,13 @@ This Tableau project is a comprehensive Sales Dashboard that provides key insigh
 - **Sales Trend Analysis** – Line charts comparing 2023 vs. 2022 sales performance.  
 - **Profit & Loss Analysis** – Highlights highest and lowest profit months.  
 - **Subcategory Performance** – Breakdown of sales and profit for different product categories.  
-- **Interactive Filters** – Allows for detailed data exploration and comparisons.  
+- **Interactive Filters** – Allows for detailed data exploration and comparisons.
+
+ ## Mockups & Design Approach  
+Before implementing the Tableau dashboard, a **mockup** was created to outline the layout and key elements of the final visualization. The design process involved:  
+- Defining KPI cards for sales, profit, and sales quantity.  
+- Structuring visual elements for **sales trends, category analysis, and regional insights**.  
+  
 
 ## Dashboard Preview  
 
